@@ -1,4 +1,4 @@
-import json
+import supabase
 
 # This code will run relative to the root of the repo, so we can load files
 with open("exercises/bookquotes.json") as f:
